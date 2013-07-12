@@ -7,7 +7,7 @@ var textToDisplay = buf.toString(fs.readFileSync('index.html'),'utf-8');
 var app = express.createServer(express.logger());
 
 app.get('/', function(request, response) {
-    response.send(textToDisplay);
+    response.send(message(textToDisplay));
 });
 
 var port = process.env.PORT || 5000;
