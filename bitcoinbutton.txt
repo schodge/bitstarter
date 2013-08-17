@@ -1,0 +1,1 @@
+<a class="coinbase-button" data-code="05f1ed74122d8007c42fac6913f53985" data-button-style="custom_small" href="https://coinbase.com/checkouts/05f1ed74122d8007c42fac6913f53985">Donate Bitcoins</a><script src="https://coinbase.com/assets/button.js" type="text/javascript"></script>
